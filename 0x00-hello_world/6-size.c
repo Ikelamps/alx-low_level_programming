@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main = C Sizeless Prog
+ * main - C Sizeless Prog
  * Return: Always 0 (Bravo)
  */
 int main(void)
