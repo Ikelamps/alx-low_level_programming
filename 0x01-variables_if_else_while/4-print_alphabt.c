@@ -3,7 +3,7 @@
 /**
  * main - print lower case alphabets except q and e
  *
- * Reurn: Always 0 (Bravo)
+ * Return: Always 0 (Bravo)
  */
 int main(void)
 {
