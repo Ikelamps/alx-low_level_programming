@@ -1,18 +1,18 @@
 #include <stdio.h>
 
 /**
- * main - assign a random number to variable v each time it is run
- * print out last digit of stored number in v
- * Return: Always 0 (Brav0)
+ * main - assign randon number to variable j each time is it run
+ * print last didgt stored in variable j
+ * Return: Always 0 (Bravo)
  */
 int main(void)
 {
-	int v;
+int j;
 
-	for (v = 0; v < 10; v++)
-	{
-		printf("%d", v);
-	}
-	printf('\n');
-	return (0);
+for (j = 0; j < 10; j++)
+{
+printf("%d", j);
+}
+printf("\n");
+return (0);
 }
