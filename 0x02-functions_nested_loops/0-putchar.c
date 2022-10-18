@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - Print _putchar followed by new line
- * Return: Always 0 (Bravo)
+ * main - print _putchar ff by a new line
+ * Return: 0 (Bravo)
  */
 int main(void)
 {
