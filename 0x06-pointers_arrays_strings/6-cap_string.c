@@ -8,6 +8,7 @@
 char *cap_string(char *str)
 {
 	int q = 0;
+
 	while (str[q])
 	{
 		while (!(str[q] >= 'a' && str[q] <= 'z'))
