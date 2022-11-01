@@ -6,7 +6,7 @@
  * @s: first occurance in string
  * @accept: matches one of the bytes or @NULL if no such byte
  *
- * Return: a pointer to the byte
+ * Return: a pointer to the byte 0
  */
 char *_strpbrk(char *s, char *accept)
 {
@@ -21,5 +21,5 @@ char *_strpbrk(char *s, char *accept)
 		}
 	s++;
 	}
-	return (NULL);
+	return ('\0');
 }
