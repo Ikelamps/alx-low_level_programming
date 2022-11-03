@@ -12,7 +12,7 @@ int _strlen_recursion(char *s)
 	return (0);
 }
 /**
- * pal_checker - check if s is palindrone
+ * pal_checker - check if s is palindrome
  * @s: string base address
  * @i: left index
  * @j: right index
