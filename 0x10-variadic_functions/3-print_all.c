@@ -23,6 +23,10 @@ void print_all(const char * const format, ...)
 				flag = 0;
 				break;
 			case 'i':
+				printf("%i", va_arg(a_list, int));
+				flag = 0;
+				break;
+			case 'f':
 				printf("%f", va_arg(a_list, double));
 				flag = 0;
 				break;
